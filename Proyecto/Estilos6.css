@@ -1,0 +1,55 @@
+.gaby
+{
+	font-size:25px;
+	color:#FF69B4;
+	font-family:Times New Roman;
+	text-align:center;
+}
+
+.gaby1				
+{
+	font-size:18px;
+	color:#000000;
+	margin:1;
+	font-family:Bookman Old Style;
+	text-align:center;
+	line-height:1.5em;
+}
+
+.impacto				
+{
+	font-size:18px;
+	color:#000000;
+	margin:1;
+	font-family:Bookman Old Style;
+	text-align:center;
+	line-height:1.5em;
+}
+
+.table 
+{
+	border-collapse:separate;
+}
+
+.table tr, th, td
+{
+	box-shadow:4px 4px 4px black;
+	background:#FF69B4;
+	padding:10px;
+	font-family:Bookman Old Style;
+	text-align:center;
+	margin:500;
+	width:200px;
+	height:50px;
+}
+
+.mil
+{
+	text-align:right;
+}
+
+
+body
+{
+background:#F7DC6F;
+}
